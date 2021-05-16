@@ -1,2 +1,2 @@
-# studyngJavaScript
-JavaScript Fundaments and Theory course
+# APRENDENDO JAVASCRIPT 
+Fundamentos e Teoria do JavaScript
